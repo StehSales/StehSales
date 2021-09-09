@@ -23,7 +23,7 @@
 </div>  
  
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=StehSales&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" width="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StehSales&layout=compact&langs_count=7&theme=midnight-purple" width="200"" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=StehSales&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StehSales&layout=compact&langs_count=7&theme=midnight-purple" width="400"" /> 
  </p>
 
