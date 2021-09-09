@@ -1,9 +1,8 @@
 ### Olá!! Seja Bem-vindo, me chamo Stephanie Sales!
- <div>
-  <a href="https://github.com/StehSales">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StehSales&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StehSales&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div> 
+  <p float="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StehSales&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StehSales&layout=compact&langs_count=7&theme=midnight-purple" width="395" /> 
+ </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Stephanie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Stephanie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,8 +21,4 @@
   
 </div>  
  
-<p float="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StehSales&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StehSales&layout=compact&langs_count=7&theme=midnight-purple" width="395" /> 
- </p>
 
