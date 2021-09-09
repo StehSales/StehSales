@@ -22,4 +22,12 @@
   
 </div>  
  
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StehSales&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StehSales&layout=compact&langs_count=7&theme=midnight-purple"/>
+  
+  
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=StehSales&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StehSales&layout=compact&langs_count=7&theme=midnight-purple" height="180em" /> 
+ </p>
+
