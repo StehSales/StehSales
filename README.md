@@ -1,7 +1,7 @@
 ### Olá!! Seja Bem-Vindo (a) ao meu perfil, me chamo Stephanie Sales!
   <p float="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StehSales&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StehSales&layout=compact&langs_count=7&theme=midnight-purple" width="395" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=StehSales&show_icons=true&theme=omni&include_all_commits=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StehSales&layout=compact&langs_count=7&theme=omni" width="395" /> 
  </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Stephanie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
